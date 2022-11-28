@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let celsius = +prompt("Nhap do C vao day: ");
+    class temperature {
+        celsius;
+        constructor(celsius) {
+            this.celsius = celsius;
+        }
+    }
+    let nhietdoC = new temperature(celsius);
+    let Fahrenheit = (nhietdoC.celsius * 9 / 5) + 32;
+    let Kenvin = nhietdoC.celsius + 273.15;
+    document.write("Fahrenheit la: " + Fahrenheit + "</br>" + "Kenvin la : " + Kenvin);
+</script>
+</body>
+</html>

@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c153a04f-02db-4068-9ce4-16d7dafad2b1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/Chuvihinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/Chuvihinhtron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/Dientichhinhtron.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/DoisangdoF.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/DoisangdoF.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/NhapdiemLyHoaSinh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/TongdiemLyHoaSinh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Biến,kiểu dữ liệu và toán tử/dientichhinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Ứng dụng máy tính/.idea/(Bài tập)Ứng dụng máy tính.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Ứng dụng máy tính/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Ứng dụng máy tính/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Ứng dụng máy tính/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Ứng dụng máy tính/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Ứng dụng máy tính/maytinhcoban.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Bài tập)Ứng dụng máy tính/sdfgfsdhf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/.idea/(Thực hành)Sử dụng vòng lặp for.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../(Thực hành)Sử dụng vòng lặp for/hienthichuoi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bài tập chỉ số cân nặng cơ thể/Cannang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bảng cửu chương/bangcuuchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/.idea/CaseStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy/casedtudy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Game Ai là triệu phú/.idea/Game Ai là triệu phú.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khai báo sử dụng biến/.idea/Khai báo sử dụng biến.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khai báo sử dụng biến/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khai báo sử dụng biến/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khai báo sử dụng biến/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khai báo sử dụng biến/khaibaosudungbien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Khai báo sử dụng biến/khaibaosudungbien.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập Game/.idea/Luyện tập Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập Game/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập Game/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập Game/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập Game/game.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập Game/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập cấu trúc điều kiện 1/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập cấu trúc điều kiện 1/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập cấu trúc điều kiện 1/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập cấu trúc điều kiện 1/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập cấu trúc điều kiện 1/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Luyện tập vòng lặp 01/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minites/.idea/Minites.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minites/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minites/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minites/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Minites/MiniTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng toán tử/.idea/Sử dụng toán tử.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng toán tử/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng toán tử/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng toán tử/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng toán tử/sudungtoantu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sử dụng toán tử/sudungtoantu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thực hành toán tử 3 ngôi/.idea/Thực hành toán tử 3 ngôi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thực hành toán tử 3 ngôi/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thực hành toán tử 3 ngôi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thực hành toán tử 3 ngôi/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thực hành toán tử 3 ngôi/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thực hành toán tử 3 ngôi/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo Form đơn giản/.idea/Tạo Form đơn giản.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo Form đơn giản/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo Form đơn giản/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo Form đơn giản/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo Form đơn giản/Formdongian.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài giảng] Hàm tính bình phương của một số/.idea/[Bài giảng] Hàm tính bình phương của một số.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài giảng] Hàm tính bình phương của một số/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài giảng] Hàm tính bình phương của một số/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài giảng] Hàm tính bình phương của một số/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài giảng] Hàm tính bình phương của một số/Doiso.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài giảng] Hàm tính bình phương của một số/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài giảng] Hàm tính bình phương của một số/phamviBien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Chuyển đổi giữa feet và meters/.idea/[Bài tập] Chuyển đổi giữa feet và meters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Chuyển đổi giữa feet và meters/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Chuyển đổi giữa feet và meters/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Chuyển đổi giữa feet và meters/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Chuyển đổi giữa feet và meters/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/.idea/[Bài tập] Game đơn giản - di chuyển đối tượng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - di chuyển đối tượng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - hứngBall/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - hứngBall/.idea/[Bài tập] Game đơn giản - hứngBall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - hứngBall/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - hứngBall/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - hứngBall/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Game đơn giản - hứngBall/ball.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Hàm kiểm tra số nguyên tố/.idea/[Bài tập] Hàm kiểm tra số nguyên tố.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Hàm kiểm tra số nguyên tố/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Hàm kiểm tra số nguyên tố/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Hàm kiểm tra số nguyên tố/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Hàm kiểm tra số nguyên tố/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 01/bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/.idea/[Bài tập] Luyện tập mảng 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập mảng 02/bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/[Bài tập] Luyện tập tạo và sử dụng hàm 01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/[Bài tập] Luyện tập tạo và sử dụng hàm 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/.idea/[Bài tập] Luyện tập vòng lặp 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02/bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Sử dụng các hàm có sẵn của mảng/bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Sử dụng các hàm có sẵn của mảng/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Sử dụng các hàm có sẵn của mảng/bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả hình chữ nhật/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả hình chữ nhật/.idea/[Bài tập] Xây dựng lớp mô tả hình chữ nhật.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả hình chữ nhật/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả hình chữ nhật/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả hình chữ nhật/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả hình chữ nhật/bt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Xây dựng lớp mô tả hình chữ nhật/sdfgh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/[Bài tập] Xây dựng lớp mô tả nhiệt độ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Ứng dụng chuyển đổi tiền tệ/chuyendoitiente.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/.idea/[Bài tập]Hứng trứng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/bowl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/chicken.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/egg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/game.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/hungtrung.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Hứng trứng/resource.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập]Tạo Bảng Kết Quả Học Tập/.idea/[Bài tập]Tạo Bảng Kết Quả Học Tập.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/.idea/[Thực hành] Chuyển đổi nhiệt độ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/thuchanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/.idea/[Thực hành] Sử dụng vòng lặp do-while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp do-while/Do.While.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp lồng nhau/.idea/[Thực hành] Sử dụng vòng lặp lồng nhau.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp lồng nhau/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp lồng nhau/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp lồng nhau/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp lồng nhau/thuchanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/[Thực hành] Sử dụng vòng lặp while.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Sử dụng vòng lặp while/bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị nhỏ nhất của mảng/.idea/[Thực hành] Tìm giá trị nhỏ nhất của mảng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị nhỏ nhất của mảng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị nhỏ nhất của mảng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị nhỏ nhất của mảng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị nhỏ nhất của mảng/baitap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị trong mảng/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị trong mảng/.idea/[Thực hành] Tìm giá trị trong mảng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị trong mảng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị trong mảng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị trong mảng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tìm giá trị trong mảng/bt1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo bàn cờ caro đơn giản/caro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và gọi hàm/.idea/[Thực hành] Tạo và gọi hàm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và gọi hàm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và gọi hàm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và gọi hàm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và gọi hàm/thuchanh.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và thao tác với mảng/.idea/[Thực hành] Tạo và thao tác với mảng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và thao tác với mảng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và thao tác với mảng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và thao tác với mảng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Tạo và thao tác với mảng/thuchanhtaoMang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/.idea/[Thực hành] Xây dựng lớp Hình Tròn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Hình Tròn/classCircle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Ngày/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Ngày/.idea/[Thực hành] Xây dựng lớp Ngày.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Ngày/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Ngày/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Ngày/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Xây dựng lớp Ngày/classDate.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/[Thực hành] Đảo ngược các phần tử trong mảng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/Mang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Đảo ngược các phần tử trong mảng/daonguocMang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/.idea/[Thực hành]Kiểm tra năm nhuận.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành]Kiểm tra năm nhuận/Kiemtranamnhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class/.idea/class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class/class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/nhapdiemsinhvien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/nhapdiemsinhvien.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/sdfghj.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap4.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2I9gUwaXiyh0kFD6a7npJTWoFYv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c153a04f-02db-4068-9ce4-16d7dafad2b1" name="Default Changelist" comment="" />
+      <created>1669599232850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669599232850</updated>
+      <workItem from="1669599235463" duration="2864000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
